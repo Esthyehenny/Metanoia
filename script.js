@@ -1,6 +1,6 @@
 
-var faq = document.getElementsByClassName("faq-question");
-var i;
+let faq = document.getElementsByClassName("faq-question");
+let i;
 for (i = 0; i < faq.length; i++) {
     faq[i].addEventListener("click", function () {
         /* Toggle between adding and removing the "active" class,
