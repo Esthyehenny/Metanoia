@@ -1,6 +1,8 @@
 **METANOIA WEBSITE REPOSITORY**
 
-Welcome to the Metanoia website repository! This repository contains the code and assets for the Metanoia website, a platform designed to assist people who are going through a difficult time or have lost their sense of purpose in life.
+Welcome to the Metanoia website repository!
+
+Metanoia is a website that aims to assist people who are going through a difficult time or have lost their sense of purpose in life. This repository contains the source code for the website, and we welcome any contributions or feedback that can help us improve the website.
 
 Contributing
 
